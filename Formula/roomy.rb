@@ -4,7 +4,7 @@ class Roomy < Formula
   desc "Find and remove regenerable developer and AI-agent artifacts safely"
   homepage "https://getroomy.dev"
   url "https://github.com/tdermendjiev/Roomy/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "REPLACE_WITH_SOURCE_TARBALL_SHA256"
+  sha256 "b6ffe2d72bf16757d2f073586bbe1ae53ec7bf7a5355a2de13a20a9d0dd439c4"
   license :cannot_represent
   head "https://github.com/tdermendjiev/Roomy.git", branch: "main"
 
